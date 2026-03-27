@@ -5,7 +5,7 @@ import {
   BrainCircuit,
   GraduationCap,
   FolderKanban,
-  Swords,
+  Briefcase,
   BookOpen,
   Mail,
   X,
@@ -18,7 +18,7 @@ const navLinks = [
   { to: "/skills", icon: BrainCircuit, text: "Skills" },
   { to: "/academics", icon: GraduationCap, text: "Education" },
   { to: "/projects", icon: FolderKanban, text: "Projects" },
-  { to: "/cp", icon: Swords, text: "CP" },
+  { to: "/experience", icon: Briefcase, text: "Experience" },
   { to: "/blog", icon: BookOpen, text: "Blog" },
   { to: "/contact", icon: Mail, text: "Contact" },
 ];

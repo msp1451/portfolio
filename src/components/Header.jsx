@@ -21,7 +21,7 @@ const navLinks = [
   { to: "/skills", label: "Skills" },
   { to: "/academics", label: "Education" },
   { to: "/projects", label: "Projects" },
-  { to: "/cp", label: "CP" },
+  { to: "/experience", label: "Experience" },
   { to: "/blog", label: "Blog" },
   { to: "/contact", label: "Contact" },
 ];
@@ -47,7 +47,7 @@ const Header = memo(({ toggleTheme, currentTheme, onHamburgerClick }) => {
     >
       {/* THE FIX: Changed Link to point to "/" */}
       <Link to="/" className="text-2xl sm:text-3xl font-extrabold text-primary tracking-wide select-none hover:opacity-80 transition">
-        Shashank Raj
+        Manish Patel
       </Link>
 
       <nav className="hidden min-[935px]:flex gap-2 sm:gap-4 md:gap-6 items-center">
