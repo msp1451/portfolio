@@ -131,9 +131,14 @@ export default memo(function About() {
               Payments, Ads, and Grocery
             </span>
             . I specialize in building scalable distributed systems,
-            high-TPS services, and performance optimization — with a proven
-            track record of shipping end-to-end features from design to
-            production.
+            high-TPS services, and performance optimization. Beyond code, I
+            drive impact through{" "}
+            <span className="text-foreground font-medium">
+              technical leadership
+            </span>
+            {" "}— mentoring engineers, leading peak readiness for Prime Day
+            and Diwali, authoring design docs, and owning operational
+            excellence end-to-end.
           </p>
 
           <div className="flex flex-wrap gap-2 mb-4 justify-center md:justify-start">

@@ -6,6 +6,7 @@ import {
   GraduationCap,
   FolderKanban,
   Briefcase,
+  Trophy,
   BookOpen,
   Mail,
   X,
@@ -19,6 +20,7 @@ const navLinks = [
   { to: "/academics", icon: GraduationCap, text: "Education" },
   { to: "/projects", icon: FolderKanban, text: "Projects" },
   { to: "/experience", icon: Briefcase, text: "Experience" },
+  { to: "/achievements", icon: Trophy, text: "Achievements" },
   { to: "/blog", icon: BookOpen, text: "Blog" },
   { to: "/contact", icon: Mail, text: "Contact" },
 ];

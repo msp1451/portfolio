@@ -71,6 +71,18 @@ function ProjectsComponent() {
       tags: ["Java", "Scala", "TypeScript", "UPI", "Performance"],
       impact: "+133 bps visitor conversion, 43% latency reduction, UPI 8s→3s",
     },
+    {
+      title: "Service Observability & Alarm Framework",
+      desc: "Built and owned end-to-end observability across 7+ services — custom CloudWatch dashboards, alarm tuning, runbook automation, and on-call tooling. Led alarm audits for Prime Day & Diwali peak readiness across Payments, driving zero-outage events.",
+      tags: ["CloudWatch", "Alarms", "Dashboards", "Operational Excellence", "On-Call"],
+      impact: "64% on-call self-resolution rate, zero outages during peak events",
+    },
+    {
+      title: "GenAI E-Commerce Chatbot",
+      desc: "Built an intelligent e-commerce shopping assistant powered by Amazon Bedrock with MCP tool servers, Knowledge-Graph RAG for product discovery, and multi-turn conversation memory. End-to-end from architecture design to working prototype.",
+      tags: ["GenAI", "Bedrock", "MCP", "Knowledge Graph", "RAG", "Python"],
+      impact: "Full-stack AI agent with tool-use and contextual product recommendations",
+    },
   ], []);
 
   return (

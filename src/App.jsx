@@ -14,6 +14,7 @@ import Projects from "./components/Projects";
 import Experience from "./components/Experience";
 import Contact from "./components/Contact";
 import Blog from "./components/Blog";
+import Achievements from "./components/Achievements";
 
 
 // --- BACKGROUND ---
@@ -65,6 +66,7 @@ const AnimatedRoutes = memo(() => {
         { path: "/academics", Component: Academics },
         { path: "/projects", Component: Projects },
         { path: "/experience", Component: Experience },
+        { path: "/achievements", Component: Achievements },
         { path: "/blog", Component: Blog },
         { path: "/contact", Component: Contact },
     ];

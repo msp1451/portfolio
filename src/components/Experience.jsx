@@ -72,6 +72,7 @@ function ExperienceComponent() {
             "Architected PySpark ETL pipelines and integrated ML models supporting 39K+ peak TPS",
             "Managed auction tuning analysis across 72 simulation dimensions",
             "Led latency regression deep-dive identifying +69.9ms clientATF and +23ms serverTime issues",
+            "196+ code reviews across career — known for catching critical design flaws",
           ],
         },
         {
@@ -82,6 +83,10 @@ function ExperienceComponent() {
             "Designed scalable payment retry architecture enabling instant retries on failures",
             "Led Graviton migration (JDK8→17) achieving 60-65% SafeTPM improvement and ~$60K annual savings",
             "Implemented circuit breaker in tier-1 service handling 13K+ TPS",
+            "Led Prime Day & Diwali peak readiness — alarm audits, stress testing, scaling; zero outages",
+            "Mentored SDE intern end-to-end (onboarding, design reviews, code reviews, hire decision)",
+            "Authored COE for cross-team production incident (Cards, Wallet, LPA, Smart-Store)",
+            "Created team-wide testing wiki and WLS sessions, eliminating gamma environment bottlenecks",
           ],
         },
       ],
